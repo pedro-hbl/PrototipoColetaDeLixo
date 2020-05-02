@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="725.129" height="334.959" viewBox="0 0 725.129 334.959">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #d8d8d8;
+      }
+
+      .cls-2 {
+        stroke: #5a80fb;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #5a80fb;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Graph_2" data-name="Graph 2" transform="translate(-136.5 -4119.5)">
+    <path id="Path_5062" data-name="Path 5062" class="cls-1" d="M3295.5,1999.7s100.552-1.17,170.35-110.319,110.18,90.431,186.218,78.03,83.258-240.057,160.9-218.3,43.323,161.087,206.631,165.812" transform="translate(-3158 2406.426)"/>
+    <path id="Path_5060" data-name="Path 5060" class="cls-2" d="M3217.3,1613.089s55.951-141.987,162.667-51.269,232.607,98.4,353.835,0,194.049,92.254,194.049,92.254" transform="translate(-3079.8 2708.906)"/>
+    <path id="Path_5061" data-name="Path 5061" class="cls-3" d="M15,2.5A12.5,12.5,0,1,1,2.5,15,12.5,12.5,0,0,1,15,2.5Z" transform="translate(604.367 4279.756)"/>
+    <line id="Line_108" data-name="Line 108" class="cls-1" y2="333.959" transform="translate(137.5 4119.5)"/>
+    <line id="Line_109" data-name="Line 109" class="cls-1" x1="723.833" transform="translate(137.5 4453.459)"/>
+    <g id="Group_3016" data-name="Group 3016" transform="translate(-28 2615.173)">
+      <rect id="Rectangle_52" data-name="Rectangle 52" class="cls-4" width="102.995" height="35.831" rx="5" transform="translate(597.954 1618.527)"/>
+      <path id="Path_25" data-name="Path 25" class="cls-4" d="M3635.6,1493l15.623,15.623L3666.845,1493Z" transform="translate(-3004.826 153.486)"/>
+      <text id="_599_88" data-name="599,88" class="cls-5" transform="translate(624.497 1640.722)"><tspan x="0" y="0">599,88</tspan></text>
+    </g>
+  </g>
+</svg>
